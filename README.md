@@ -1,19 +1,19 @@
-# Gerenciador de Usuários
-## Descrição
-Este é um programa simples em Python para gerenciar usuários. Ele permite registrar novos usuários, listar os usuários registrados e remover usuários da lista. O programa utiliza uma interface de linha de comando para interagir com o usuário.
+# User Manager
+## Description
+This is a simple Python program for managing users. It allows you to register new users, list registered users, and remove users from the list. The program uses a command-line interface to interact with the user.
 
-## Como executar o código
+## How to Run the Code
 <ol>
-    <li>Certifique-se de ter o Python instalado em sua máquina. Este programa foi desenvolvido para Python 3.x.</li>
-    <li>Faça o download ou clone este repositório para o seu computador.</li>
-    <li>Navegue até o diretório onde os arquivos main.py e user.py estão localizados.</li>
-    <li>Execute o arquivo main.py no terminal ou prompt de comando com o seguinte comando:</li>
-    <li>Siga as instruções exibidas no terminal para interagir com o programa.</li>
+    <li>Make sure you have Python installed on your machine. This program was developed for Python 3.x.</li>
+    <li>Download or clone this repository to your computer.</li>
+    <li>Navigate to the directory where the files <code>main.py</code> and <code>user.py</code> are located.</li>
+    <li>Run the <code>main.py</code> file in the terminal or command prompt using the following command:</li>
+    <li>Follow the instructions displayed in the terminal to interact with the program.</li>
 </ol>
 
-## Funcionalidades
+## Features
 <ul>
-    <li>Registrar novos usuários com nome de usuário e senha.</li>
-    <li>Listar todos os usuários registrados.</li>
-    <li>Remover usuários individualmente ou limpar toda a lista de usuários.</li>
+    <li>Register new users with username and password.</li>
+    <li>List all registered users.</li>
+    <li>Remove individual users or clear the entire user list.</li>
 </ul>
